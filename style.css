@@ -31,10 +31,9 @@
     text-align: left;
     padding-top: 20px;  
 }
-li{
-    display: inline;;
-}
-a{
+.navbar li{
+    display: inline;
+}a{
     text-decoration: none;
     color: #cfd4d7;
     padding-right: 10px;
