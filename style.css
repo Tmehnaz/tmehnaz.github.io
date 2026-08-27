@@ -33,7 +33,11 @@
 }
 .navbar li{
     display: inline;
-}a{
+}
+li{
+    margin-bottom: 10px;
+}
+a{
     text-decoration: none;
     color: #cfd4d7;
     padding-right: 10px;
