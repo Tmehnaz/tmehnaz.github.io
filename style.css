@@ -3,6 +3,9 @@
     box-sizing: border-box;
 }
 
+html{
+    background-color: black;
+}
 body{
     overflow-x: hidden;
     background-color: black;
@@ -13,7 +16,7 @@ body{
     justify-content: space-around;
     align-items: flex-start;
     width: 100vw ;
-    min-height: 100vh;
+    height: 250vh;
     background-color: black;
     color: white;
 }
