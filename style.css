@@ -56,7 +56,7 @@ a:hover{
 
 p{
     line-height: 20px;
-    width: 700px;
+    max-width: 700px;
 }
 button{
     background-color: rgb(247, 222, 213);
