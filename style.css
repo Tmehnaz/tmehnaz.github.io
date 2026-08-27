@@ -28,7 +28,6 @@ body{
     margin: 10px;
     line-height: 30px;
     flex-basis: 10px;
-    min-width: 400px;
 }
 .navbar{
     width: 100vw;   
